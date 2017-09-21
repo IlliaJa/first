@@ -6,4 +6,4 @@ if (name= 'Illia') {
  else {
 	console.log('fuck off');
 }
-//изменение
+//изменение2
